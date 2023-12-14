@@ -1,0 +1,40 @@
+.section-contact {
+  height: calc(100vh - 77px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  background-color: #1d4289;
+  color: white;
+}
+
+.contact-header h4 {
+  text-align: center;
+}
+
+.contact-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  gap: 35px;
+}
+/* .footer {
+  
+} */
+
+.contact-content a {
+  text-decoration: none;
+  /* color: var(--primary); */
+  color: black;
+}
+
+.card-contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px 0;
+}

@@ -1,0 +1,33 @@
+.section-header {
+  height: 77px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  padding: 0 50px;
+  font-size: x-large;
+  background-color: #1d4289;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.section-header ul {
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  font-size: 19px;
+  font-weight: 600;
+}
+.section-header li {
+  padding: 10px 15px;
+}
+
+.section-header li:hover {
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: white;
+  color: #1d4289;
+}
