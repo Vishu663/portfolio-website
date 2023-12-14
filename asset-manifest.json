@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.6998e511.css",
+    "main.js": "/portfolio-website/static/js/main.a11ffd1d.js",
+    "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
+    "static/media/about-pic.png": "/portfolio-website/static/media/about-pic.2ba38279e9f4a6bda3c0.png",
+    "static/media/vishalog.JPG": "/portfolio-website/static/media/vishalog.f69b9f40c502a555058a.JPG",
+    "static/media/Vishal Resume.pdf": "/portfolio-website/static/media/Vishal Resume.3b2297529338bf03c85a.pdf",
+    "static/media/Airbnb-clone-ipad.JPG": "/portfolio-website/static/media/Airbnb-clone-ipad.2a4533d0988bbdac0fef.JPG",
+    "static/media/badge.png": "/portfolio-website/static/media/badge.ee69eb2e85ff39f26d62.png",
+    "static/media/webprint-ipad.PNG": "/portfolio-website/static/media/webprint-ipad.30298b2b514f7b05d33b.PNG",
+    "static/media/email.png": "/portfolio-website/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/linkedin.png": "/portfolio-website/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/login.PNG": "/portfolio-website/static/media/login.03bc6061f24be9f040a7.PNG",
+    "index.html": "/portfolio-website/index.html",
+    "main.6998e511.css.map": "/portfolio-website/static/css/main.6998e511.css.map",
+    "main.a11ffd1d.js.map": "/portfolio-website/static/js/main.a11ffd1d.js.map",
+    "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6998e511.css",
+    "static/js/main.a11ffd1d.js"
+  ]
+}
